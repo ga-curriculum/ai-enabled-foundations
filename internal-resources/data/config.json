@@ -1,0 +1,76 @@
+{
+  "org": {
+    "friendlyName": "Modular Curriculum All Courses",
+    "name": "modular-curriculum-all-courses"
+  },
+  "repo": {
+    "friendlyName": "AI Enabled Fundamentals",
+    "name": "ai-enabled-fundamentals",
+    "type": "Lesson",
+    "about": "This module introduces the essential mindsets, concepts, and practical skills needed to become an AI-enabled data professional. You’ll explore what it means to work alongside AI, map AI tools to your own data workflows, and learn how large language models (LLMs) work so you can use them confidently and responsibly in your day-to-day work.",
+    "starterCode": "",
+    "solutionCode": "",
+    "deployedSite": ""
+  },
+  "courses": [
+    {
+      "name": "fallback",
+      "courseAcronym": "",
+      "courseFullName": "",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Becoming AI-Enabled in Data",
+          "dirName": "microlesson-01",
+          "type": "Content",
+          "skill": "AI mindset, workflow reflection, getting hands-on with GenAI",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 20
+        },
+        {
+          "friendlyName": "Mapping AI to the Data Workflow",
+          "dirName": "microlesson-02",
+          "type": "Content",
+          "skill": "Data use cases, identifying where AI fits, recognizing AI capabilities and limits",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 20
+        },
+        {
+          "friendlyName": "LLM Fundamentals & Responsible AI Use",
+          "dirName": "microlesson-03",
+          "type": "Content",
+          "skill": "Understanding LLMs, prompt engineering for data, responsible AI practices",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 20
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    }
+  ]
+}
