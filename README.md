@@ -16,9 +16,11 @@ This module introduces the essential mindsets, concepts, and practical skills ne
 | [LLM Fundamentals & Responsible AI Use](./microlesson-03/README.md) | ~20 min | Understanding LLMs, prompt engineering for data, responsible AI practices |
 | **Total content**                                   | ~1 hour |                                     |
 
+<!--
 ## References
 
 📖 [Reference Materials](./references/README.md)
+-->
 
 ### Prerequisites
 
